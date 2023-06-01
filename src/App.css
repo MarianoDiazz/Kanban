@@ -1,18 +1,18 @@
+@import "https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap";
 * {
-  margin: 0;
   padding: 0;
+  margin: 0;
   box-sizing: border-box;
-
 }
 
 body {
-  background-color: bisque;
-  /* color: whitesmoke; */
+  background-color: #6a4c93;
+  color: #E4E4E4;
+  font-family: 'Poppins', sans-serif;
   line-height: 1.5;
+  background-repeat: no-repeat;
   height: 100vh;
-  width: 100vw;
 }
 h1{
   text-align: center;
-  
 }
